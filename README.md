@@ -6,7 +6,7 @@
 
 ## Overview 
 
-This repository shows my journey of designing and building a robot lawn mower. My previous Robot Hand project provided me with a basic knowledge of robotics and microcontroller, which was further developed in this more ambitious project. In particular, skills relating to networking and hardware control were developed.
+This repository shows my journey of designing and building a robot lawn mower. My previous Robot Hand project provided me with a basic knowledge of robotics and microcontrollers, which was further developed in this more ambitious project. In particular, skills relating to networking and hardware control were developed.
 
 The project focused on modifying a Westwood Ti200 ride-on lawn mower, utilising linear actuators and motor controllers for steering and brake control. An ESP8266 microcontroller with built-in Wi-Fi has been used for wireless control, and a custom Python program and iOS app were created for controlling the lawn mower. The project emphasised problem-solving and iterative design, resulting in the fabrication of custom 3D-printed parts for improved functionality. The skills developed in this project provide a strong foundation for future projects, and the robot provides a base to explore other technologies, such as AI and different location positioning systems.
 
